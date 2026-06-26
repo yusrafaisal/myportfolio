@@ -43,7 +43,7 @@ const projects: Project[] = [
       "LangGraph", "FastAPI", "Azure OpenAI GPT-4o", "Azure Whisper",
       "PostgreSQL", "Next.js", "Python", "Power BI", "REST APIs",
     ],
-    // media: { type: "image", src: "/media/erp-agent.png" },
+    media: { type: "video", src: "/media/printech-agent.mp4", poster: "/media/printech-thumb.png" },
   },
   {
     index: "02",
@@ -59,7 +59,7 @@ const projects: Project[] = [
       "Designed for multi-client scalability across UK professional service verticals",
     ],
     pills: ["Voice AI", "Python", "Webhooks", "CRM Integration", "REST APIs", "n8n", "Automation"],
-    // media: { type: "image", src: "/media/voice-agent.png" },
+    media: { type: "video", src: "/media/Voice_Demo.mp4", poster: "/media/Voice_AI-thumb.png" },
   },
   {
     index: "03",
